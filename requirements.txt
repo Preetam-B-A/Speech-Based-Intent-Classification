@@ -1,0 +1,6 @@
+pandas
+pydub
+SpeechRecognition
+rasa==1.2.7
+regex
+ffmpeg-python
